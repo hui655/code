@@ -1,0 +1,83 @@
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.AssemblyReference.cache
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.Form1.resources
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.GenerateResource.cache
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.AssemblyInfoInputs.cache
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.AssemblyInfo.cs
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.CoreCompileInputs.cache
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\EggForm.exe
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\EggForm.deps.json
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\EggForm.runtimeconfig.json
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\EggForm.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\EggForm.pdb
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\ExCSS.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\Fizzler.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\FontAwesome.Sharp.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\FontAwesome.WinForms.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\GumroadLicensing.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\Svg.dll
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+C:\project\vsproject\EggForm\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.Up2Date
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.dll
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\refint\EggForm.dll
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.pdb
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.genruntimeconfig.cache
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\ref\EggForm.dll
+C:\project\vsproject\EggForm\EggForm\obj\Debug\net10.0-windows\EggForm.Properties.Resources.resources
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.AssemblyReference.cache
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.Form1.resources
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.Properties.Resources.resources
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.GenerateResource.cache
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.AssemblyInfoInputs.cache
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.AssemblyInfo.cs
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.CoreCompileInputs.cache
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.dll
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\refint\EggForm.dll
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.pdb
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\EggForm.exe
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\EggForm.deps.json
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\EggForm.runtimeconfig.json
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\EggForm.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\EggForm.pdb
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\ExCSS.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\Fizzler.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\FontAwesome.Sharp.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\FontAwesome.WinForms.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\GumroadLicensing.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\Svg.dll
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+C:\project\vsproject\EggForm - 1\EggForm\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.csproj.Up2Date
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.genruntimeconfig.cache
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\ref\EggForm.dll
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.Form3.resources
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.Form5.resources
+C:\project\vsproject\EggForm - 1\EggForm\obj\Debug\net10.0-windows\EggForm.Form6.resources
